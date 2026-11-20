@@ -1,0 +1,5 @@
+scenedetect[opencv]==0.7.3
+av==17.0.0
+mcp>=1.12,<2
+starlette>=0.41,<1
+uvicorn>=0.32,<1

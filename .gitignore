@@ -1,0 +1,8 @@
+.venv/
+.vsr-env/
+engines/
+data/
+__pycache__/
+settings.json
+其他Agent接入.json
+分镜工坊_源码与安装.zip
